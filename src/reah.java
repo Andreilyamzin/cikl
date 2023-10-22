@@ -1,4 +1,4 @@
-public class reah {
+public class reah { 
     public static void main(String[] args) {
 //Задача 1
         int i = 0;
